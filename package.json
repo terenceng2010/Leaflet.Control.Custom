@@ -1,0 +1,9 @@
+{
+  "name": "leaflet.control.custom",
+  "version": "1.0.1",
+  "description": "A Customizable Leaflet Control Panel",
+  "main": "Leaflet.Control.Custom.js",
+  "author": "Terence Ng",
+  "license": "ISC",
+  "repository":"github:terenceng2010/Leaflet.Control.Custom"
+}
